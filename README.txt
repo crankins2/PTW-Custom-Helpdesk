@@ -7,5 +7,4 @@ Close the black command window to shut the app down.
 To share with employees: send them this entire folder (or zip it).
 They just double-click the .bat file — no installation needed.
 
-Redirect URI for Azure (already configured):
-  http://localhost:8765
+

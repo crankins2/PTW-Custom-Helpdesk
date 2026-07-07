@@ -1,0 +1,12 @@
+{
+  "name": "ptw-helpdesk",
+  "version": "1.0.0",
+  "description": "PTW Foundation IT Helpdesk",
+  "main": "server.js",
+  "bin": "server.js",
+  "pkg": {
+    "targets": ["node18-win-x64"],
+    "outputPath": ".",
+    "compress": "GZip"
+  }
+}
